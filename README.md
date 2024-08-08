@@ -1,4 +1,6 @@
-## Running React on Replit
+<h1 align="center">
+   Lexaly AI
+</h1>
 
 [React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
 
