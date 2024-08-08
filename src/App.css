@@ -1,0 +1,14 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.header-app {
+  padding: 15px;
+  background-color: #262682;
+}
+
+.header-app h1 {
+  color: white;
+  font-family: sans-serif;
+}
